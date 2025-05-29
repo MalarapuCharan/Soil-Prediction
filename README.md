@@ -45,7 +45,7 @@ Soil-Crop-Plant-Prediction/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Yashwanth2604/Soil-Crop-Plant-Prediction.git
+git clone https://github.com/Malarapu charan/Soil-Crop-Plant-Prediction.git
 cd Soil-Crop-Plant-Prediction
 ```
 
